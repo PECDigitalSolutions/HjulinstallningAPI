@@ -234,3 +234,4 @@ C:\projects\hjulinstallning\HjulinstallningAPI.Tests\obj\Debug\net8.0\refint\Hju
 C:\projects\hjulinstallning\HjulinstallningAPI.Tests\obj\Debug\net8.0\HjulinstallningAPI.Tests.pdb
 C:\projects\hjulinstallning\HjulinstallningAPI.Tests\obj\Debug\net8.0\HjulinstallningAPI.Tests.genruntimeconfig.cache
 C:\projects\hjulinstallning\HjulinstallningAPI.Tests\obj\Debug\net8.0\ref\HjulinstallningAPI.Tests.dll
+C:\projects\hjulinstallning\HjulinstallningAPI.Tests\obj\Debug\net8.0\HjulinstallningAPI.Tests.sourcelink.json
